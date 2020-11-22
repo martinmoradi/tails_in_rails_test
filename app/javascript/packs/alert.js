@@ -1,0 +1,1 @@
+alert("le JS a été exécuté !!")
